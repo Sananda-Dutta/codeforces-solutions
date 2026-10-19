@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 4 |
+| 2 | 5 |
 
 ---
 
@@ -14,6 +14,7 @@
 
 - [greedy](#greedy) (1)
 - [implementation](#implementation) (1)
+- [math](#math) (1)
 - [sortings](#sortings) (1)
 - [strings](#strings) (1)
 
@@ -30,6 +31,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Sananda-Dutta/codeforces-solutions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Sananda-Dutta/codeforces-solutions/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
 
 ### sortings
 
