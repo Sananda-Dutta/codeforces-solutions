@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 14 | 10 |
+| 15 | 10 |
 
 ---
 
@@ -17,11 +17,11 @@
 - [data structures](#data-structures) (1)
 - [greedy](#greedy) (4)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (10)
+- [implementation](#implementation) (11)
 - [math](#math) (5)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (1)
-- [strings](#strings) (5)
+- [strings](#strings) (6)
 
 ---
 
@@ -72,6 +72,7 @@
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Sananda-Dutta/codeforces-solutions/blob/HEAD/520/A%20-%20Pangram/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Sananda-Dutta/codeforces-solutions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Sananda-Dutta/codeforces-solutions/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
+| 1985A | [Creating Words](https://codeforces.com/contest/1985/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Sananda-Dutta/codeforces-solutions/blob/HEAD/1985/A%20-%20Creating%20Words/solution.cpp) |
 
 ### math
 
@@ -104,6 +105,7 @@
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Sananda-Dutta/codeforces-solutions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Sananda-Dutta/codeforces-solutions/blob/HEAD/520/A%20-%20Pangram/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Sananda-Dutta/codeforces-solutions/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
+| 1985A | [Creating Words](https://codeforces.com/contest/1985/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Sananda-Dutta/codeforces-solutions/blob/HEAD/1985/A%20-%20Creating%20Words/solution.cpp) |
 
 ---
 
