@@ -6,12 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 23 | 11 |
+| 24 | 12 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [binary search](#binary-search) (2)
 - [brute force](#brute-force) (2)
 - [constructive algorithms](#constructive-algorithms) (1)
@@ -25,6 +26,12 @@
 - [strings](#strings) (7)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2272A | [Maximize One MEX](https://codeforces.com/contest/2272/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/Sananda-Dutta/codeforces-solutions/blob/HEAD/2272/A%20-%20Maximize%20One%20MEX/solution.cpp) |
 
 ### binary search
 
