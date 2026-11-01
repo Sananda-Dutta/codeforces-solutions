@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 30 | 13 |
+| 31 | 13 |
 
 ---
 
@@ -20,11 +20,11 @@
 - [data structures](#data-structures) (1)
 - [greedy](#greedy) (6)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (19)
+- [implementation](#implementation) (20)
 - [math](#math) (10)
 - [number theory](#number-theory) (3)
 - [sortings](#sortings) (3)
-- [strings](#strings) (9)
+- [strings](#strings) (10)
 
 ---
 
@@ -90,6 +90,7 @@
 | 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [C++17 (GCC 7-32)](https://github.com/Sananda-Dutta/codeforces-solutions/blob/HEAD/4/C%20-%20Registration%20System/solution.cpp) |
 | 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Sananda-Dutta/codeforces-solutions/blob/HEAD/41/A%20-%20Translation/solution.cpp) |
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Sananda-Dutta/codeforces-solutions/blob/HEAD/59/A%20-%20Word/solution.cpp) |
+| 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Sananda-Dutta/codeforces-solutions/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Sananda-Dutta/codeforces-solutions/blob/HEAD/118/A%20-%20String%20Task/solution.cpp) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Sananda-Dutta/codeforces-solutions/blob/HEAD/200/B%20-%20Drinks/solution.cpp) |
 | 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/Sananda-Dutta/codeforces-solutions/blob/HEAD/230/B%20-%20T-primes/solution.cpp) |
@@ -144,6 +145,7 @@
 |---|---------|------------|----------|
 | 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Sananda-Dutta/codeforces-solutions/blob/HEAD/41/A%20-%20Translation/solution.cpp) |
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Sananda-Dutta/codeforces-solutions/blob/HEAD/59/A%20-%20Word/solution.cpp) |
+| 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Sananda-Dutta/codeforces-solutions/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Sananda-Dutta/codeforces-solutions/blob/HEAD/118/A%20-%20String%20Task/solution.cpp) |
 | 208A | [Dubstep](https://codeforces.com/contest/208/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Sananda-Dutta/codeforces-solutions/blob/HEAD/208/A%20-%20Dubstep/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Sananda-Dutta/codeforces-solutions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
