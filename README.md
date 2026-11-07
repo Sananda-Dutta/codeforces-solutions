@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 36 | 13 |
+| 37 | 13 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (2)
+- [Uncategorized](#uncategorized) (3)
 - [binary search](#binary-search) (2)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (3)
@@ -34,6 +34,7 @@
 |---|---------|------------|----------|
 | 2272A | [Maximize One MEX](https://codeforces.com/contest/2272/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/Sananda-Dutta/codeforces-solutions/blob/HEAD/2272/A%20-%20Maximize%20One%20MEX/solution.cpp) |
 | 2280C | [Reverse and Double](https://codeforces.com/contest/2280/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/Sananda-Dutta/codeforces-solutions/blob/HEAD/2280/C%20-%20Reverse%20and%20Double/solution.cpp) |
+| 2280E | [Anti-Productive](https://codeforces.com/contest/2280/problem/E) | Unrated | [C++17 (GCC 7-32)](https://github.com/Sananda-Dutta/codeforces-solutions/blob/HEAD/2280/E%20-%20Anti-Productive/solution.cpp) |
 
 ### binary search
 
