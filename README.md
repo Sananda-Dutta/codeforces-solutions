@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 44 | 13 |
+| 46 | 13 |
 
 ---
 
@@ -20,8 +20,8 @@
 - [data structures](#data-structures) (1)
 - [greedy](#greedy) (7)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (27)
-- [math](#math) (13)
+- [implementation](#implementation) (28)
+- [math](#math) (14)
 - [number theory](#number-theory) (4)
 - [sortings](#sortings) (3)
 - [strings](#strings) (11)
@@ -105,6 +105,7 @@
 | 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/Sananda-Dutta/codeforces-solutions/blob/HEAD/230/B%20-%20T-primes/solution.cpp) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Sananda-Dutta/codeforces-solutions/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Sananda-Dutta/codeforces-solutions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
+| 427A | [Police Recruits](https://codeforces.com/contest/427/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Sananda-Dutta/codeforces-solutions/blob/HEAD/427/A%20-%20Police%20Recruits/solution.cpp) |
 | 451A | [Game With Sticks](https://codeforces.com/contest/451/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Sananda-Dutta/codeforces-solutions/blob/HEAD/451/A%20-%20Game%20With%20Sticks/solution.cpp) |
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Sananda-Dutta/codeforces-solutions/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.cpp) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Sananda-Dutta/codeforces-solutions/blob/HEAD/486/A%20-%20Calculating%20Function/solution.cpp) |
@@ -135,6 +136,7 @@
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Sananda-Dutta/codeforces-solutions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Sananda-Dutta/codeforces-solutions/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Sananda-Dutta/codeforces-solutions/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.cpp) |
+| 1335A | [Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Sananda-Dutta/codeforces-solutions/blob/HEAD/1335/A%20-%20Candies%20and%20Two%20Sisters/solution.cpp) |
 | 1343B | [Balanced Array](https://codeforces.com/contest/1343/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Sananda-Dutta/codeforces-solutions/blob/HEAD/1343/B%20-%20Balanced%20Array/solution.cpp) |
 | 1352C | [K-th Not Divisible by n](https://codeforces.com/contest/1352/problem/C) | 1200 | [C++17 (GCC 7-32)](https://github.com/Sananda-Dutta/codeforces-solutions/blob/HEAD/1352/C%20-%20K-th%20Not%20Divisible%20by%20n/solution.cpp) |
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Sananda-Dutta/codeforces-solutions/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.cpp) |
