@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 55 | 15 |
+| 56 | 16 |
 
 ---
 
@@ -19,11 +19,12 @@
 - [brute force](#brute-force) (8)
 - [constructive algorithms](#constructive-algorithms) (3)
 - [data structures](#data-structures) (2)
-- [games](#games) (1)
+- [dp](#dp) (1)
+- [games](#games) (2)
 - [greedy](#greedy) (10)
 - [hashing](#hashing) (2)
 - [implementation](#implementation) (32)
-- [math](#math) (17)
+- [math](#math) (18)
 - [number theory](#number-theory) (5)
 - [sortings](#sortings) (4)
 - [strings](#strings) (14)
@@ -86,11 +87,18 @@
 | 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [C++17 (GCC 7-32)](https://github.com/Sananda-Dutta/codeforces-solutions/blob/HEAD/4/C%20-%20Registration%20System/solution.cpp) |
 | 1520D | [Same Differences](https://codeforces.com/contest/1520/problem/D) | 1200 | [C++17 (GCC 7-32)](https://github.com/Sananda-Dutta/codeforces-solutions/blob/HEAD/1520/D%20-%20Same%20Differences/solution.cpp) |
 
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2290E | [Avalanche](https://codeforces.com/contest/2290/problem/E) | Unrated | [C++17 (GCC 7-32)](https://github.com/Sananda-Dutta/codeforces-solutions/blob/HEAD/2290/E%20-%20Avalanche/solution.cpp) |
+
 ### games
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Sananda-Dutta/codeforces-solutions/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
+| 2290E | [Avalanche](https://codeforces.com/contest/2290/problem/E) | Unrated | [C++17 (GCC 7-32)](https://github.com/Sananda-Dutta/codeforces-solutions/blob/HEAD/2290/E%20-%20Avalanche/solution.cpp) |
 
 ### greedy
 
@@ -172,6 +180,7 @@
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Sananda-Dutta/codeforces-solutions/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.cpp) |
 | 2276A | [Perfect Sandwiches](https://codeforces.com/contest/2276/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Sananda-Dutta/codeforces-solutions/blob/HEAD/2276/A%20-%20Perfect%20Sandwiches/solution.cpp) |
 | 2276C | [Subarrays](https://codeforces.com/contest/2276/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/Sananda-Dutta/codeforces-solutions/blob/HEAD/2276/C%20-%20Subarrays/solution.cpp) |
+| 2290E | [Avalanche](https://codeforces.com/contest/2290/problem/E) | Unrated | [C++17 (GCC 7-32)](https://github.com/Sananda-Dutta/codeforces-solutions/blob/HEAD/2290/E%20-%20Avalanche/solution.cpp) |
 
 ### number theory
 
